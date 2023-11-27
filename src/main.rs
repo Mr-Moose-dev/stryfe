@@ -4,6 +4,7 @@ pub struct Stryfe;
 
 impl Plugin for Stryfe {
     fn build(&self, app: &mut App) {
+
     }
 }
 
